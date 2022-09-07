@@ -1,0 +1,3 @@
+﻿  Factory Method.cpp
+E:\дз\ШАГ\Factory Method\Factory Method\Barrack.h(24): warning C4715: 'MilitaryBarracks::createUnit': not all control paths return a value
+  Factory Method.vcxproj -> E:\дз\ШАГ\Factory Method\x64\Debug\Factory Method.exe
